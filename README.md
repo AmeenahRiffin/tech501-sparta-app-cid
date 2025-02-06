@@ -5,3 +5,4 @@ The sparta app files are located in the /app/ folder.
 
 Edit 1: For testing purposes.
 Edit 2: Updated Repository URL to correct one.
+Edit 3: Changed git code a bit.
