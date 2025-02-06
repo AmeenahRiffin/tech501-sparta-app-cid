@@ -1,0 +1,1 @@
+The purpose of this repo is to demonstrate and test the use of CI CD pipelines.
